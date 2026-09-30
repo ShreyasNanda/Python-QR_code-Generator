@@ -1,4 +1,4 @@
-# Pure Python QR Code Generator
+# Python QR Code Generator
 
 A lightweight, educational project that implements a QR code generator entirely from scratch in Python, without relying on any external libraries or third-party packages.
 
